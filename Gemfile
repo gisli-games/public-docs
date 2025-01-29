@@ -10,7 +10,6 @@ source "https://rubygems.org"
 # gem "jekyll", "~> 4.4.0"
 
 gem "github-pages", "~> 232", group: :jekyll_plugins
-gem "github-pages", group: :jekyll_plugins
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5"
